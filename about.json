@@ -1,22 +1,27 @@
 {
-  "name": "Tufin Developer Community",
-  "about_url": "Theme about url",
-  "license_url": "Theme license url",
-  "assets": {
-    "asset-variable": "assets/background.svg"
-  },
+  "name": "Tufin Developer Community - Light",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": null,
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {},
   "color_schemes": {
-    "color scheme name": {
-      "primary": "000000",
-      "secondary": "000000",
-      "tertiary": "000000",
-      "quaternary": "000000",
-      "header_background": "000000",
-      "header_primary": "000000",
-      "highlight": "000000",
-      "danger": "000000",
-      "success": "000000",
-      "love": "000000"
+    "Light": {
+      "primary": "222222",
+      "secondary": "ffffff",
+      "tertiary": "0088cc",
+      "quaternary": "e45735",
+      "header_background": "ffffff",
+      "header_primary": "333333",
+      "highlight": "ffff4d",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "fa6c8d"
     }
-  }
+  },
+  "modifiers": {},
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
 }
